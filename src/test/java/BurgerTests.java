@@ -1,9 +1,12 @@
-package praktikum;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
+import ru.yandex.praktikum.Bun;
+import ru.yandex.praktikum.Burger;
+import ru.yandex.praktikum.Ingredient;
+import ru.yandex.praktikum.IngredientType;
 import java.util.ArrayList;
 import java.util.Arrays;
 import static org.junit.Assert.assertEquals;
